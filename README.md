@@ -9,11 +9,9 @@ I am making a summer camp website for Invasion, it will be their website for cam
 ## What you are aiming to achieve?
 I am aiming to create a website for Invasion and also it will be able to meet their requirements that they have for the website and also it will have all the important information about camp china for example, it will include information like hotels and flight. My aim to achieve will be that the website is user-friednly as well as it will be easy to navigate around the website for example, the audiences will be able to find information or specific webpages they want to visit easily and without having any problems. My other aim is that to achieve good grades so I can pass this unit.
 
-## What are the constraints and  Benefits?
-1.  Constraints
+## What are the constraints?
+I might not finish the website on time, for example, if my javascript, html and css code might not work and I have to correct them which will take longer time to make those codes work properly.
 
-I might not finish the website on time, for example, if my javascript, html and css code might not work and I have to correct them which will take longer time to make those codes work properly 
-
-2.  Benefits
-    The beneifts are that
+## What are the Benefits?
+The benefits are that it will help me improve my coding skils as well as I will be aware of the mistakes that I have make to the coding. The other benefits are that the Invasion would use my website for their purpose as well as it meets all their requirements.
 ## what are the nature of interactivity and complexity of website?
