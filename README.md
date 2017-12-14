@@ -11,7 +11,8 @@ I am aiming to create a website for Invasion and also it will be able to meet th
 
 ## What are the constraints and  Benefits?
 1.  Constraints
-    The constraints are 
+
+I might not finish the website on time, for example, if my javascript, html and css code might not work and I have to correct them which will take longer time to make those codes work properly 
 2.  Benefits
     The beneifts are that
 ## what are the nature of interactivity and complexity of website?
