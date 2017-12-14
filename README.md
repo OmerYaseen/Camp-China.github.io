@@ -10,6 +10,8 @@ I am making a summer camp website for Invasion, it will be their website for cam
 I am aiming to create a website for Invasion and also it will be able to meet their requirements that they have for the website and also it will have all the important information about camp china for example, it will include information like hotels and flight. My aim to achieve will be that the website is user-friednly as well as it will be easy to navigate around the website for example, the audiences will be able to find information or specific webpages they want to visit easily and without having any problems. My other aim is that to achieve good grades so I can pass this unit.
 
 ##### What are the constraints and  Benefits?
+1.  Constraints
 
+2.  Benefits
 
 ###### what are the nature of interactivity and complexity of website?
